@@ -1,0 +1,15 @@
+.todo_list{
+ border-width:5px;  
+ border-style:outset;
+ margin-top: 5px !important;
+}
+
+.cancel_button{
+ display: flex;
+ flex-wrap: inherit;
+ justify-content: flex-end !important;
+}
+
+.form_control{
+ margin-bottom: 20px !important;
+}
